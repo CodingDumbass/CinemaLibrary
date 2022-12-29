@@ -5,4 +5,17 @@
 }
 
 <h1>@ViewData["Title"]</h1>
-<partial name="_StatusMessage" model="Model.StatusMessage" />
+<body onload="myFunction()">
+    <partial name="_StatusMessage" model="Model.StatusMessage" />
+    <script>
+        function sleep(ms) {
+            return new Promise(resolve => setTimeout(resolve, ms));
+        }
+        function myFunction() {
+            sleep(2000).then(() => {
+                location.replace("/Identity/Account/Login")
+            });
+        }
+    </script>
+</body>
+

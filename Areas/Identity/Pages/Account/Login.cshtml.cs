@@ -3,6 +3,7 @@
 #nullable disable
 
 using System.ComponentModel.DataAnnotations;
+using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -108,7 +109,18 @@ namespace CinemaLibrary.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User logged in.");
-                    return RedirectToAction("MainPage", "LoggedUser");
+
+                    var user = await _signInManager.UserManager.FindByEmailAsync(Input.Email);
+
+                    var role = await _signInManager.UserManager.GetRolesAsync(user);
+
+                    if (role.Contains("User"))
+                        return RedirectToAction("MainPage", "LoggedUser");
+
+                    else if (role.Contains("Admin"))
+                        return RedirectToAction("AdminPage", "Admin");
+                    else
+                        return RedirectToPage("./AccessDenied");
                 }
                 if (result.RequiresTwoFactor)
                 {

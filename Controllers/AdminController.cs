@@ -3,10 +3,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CinemaLibrary.Controllers
 {
-    public class LoggedUserController : Controller
+    public class AdminController : Controller
     {
-        [Authorize(Roles ="Admin, User")]
-        public IActionResult MainPage()
+        [Authorize(Roles = "Admin")]
+        public IActionResult AdminPage()
         {
             return View();
         }

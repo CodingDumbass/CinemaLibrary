@@ -1,0 +1,12 @@
+E:\C#\CinemaLibrary.Infrastructure\bin\Debug\net6.0\CinemaLibrary.Infrastructure.deps.json
+E:\C#\CinemaLibrary.Infrastructure\bin\Debug\net6.0\CinemaLibrary.Infrastructure.dll
+E:\C#\CinemaLibrary.Infrastructure\bin\Debug\net6.0\CinemaLibrary.Infrastructure.pdb
+E:\C#\CinemaLibrary.Infrastructure\obj\Debug\net6.0\CinemaLibrary.Infrastructure.csproj.AssemblyReference.cache
+E:\C#\CinemaLibrary.Infrastructure\obj\Debug\net6.0\CinemaLibrary.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CinemaLibrary.Infrastructure\obj\Debug\net6.0\CinemaLibrary.Infrastructure.AssemblyInfoInputs.cache
+E:\C#\CinemaLibrary.Infrastructure\obj\Debug\net6.0\CinemaLibrary.Infrastructure.AssemblyInfo.cs
+E:\C#\CinemaLibrary.Infrastructure\obj\Debug\net6.0\CinemaLibrary.Infrastructure.csproj.CoreCompileInputs.cache
+E:\C#\CinemaLibrary.Infrastructure\obj\Debug\net6.0\CinemaLibrary.Infrastructure.dll
+E:\C#\CinemaLibrary.Infrastructure\obj\Debug\net6.0\refint\CinemaLibrary.Infrastructure.dll
+E:\C#\CinemaLibrary.Infrastructure\obj\Debug\net6.0\CinemaLibrary.Infrastructure.pdb
+E:\C#\CinemaLibrary.Infrastructure\obj\Debug\net6.0\ref\CinemaLibrary.Infrastructure.dll

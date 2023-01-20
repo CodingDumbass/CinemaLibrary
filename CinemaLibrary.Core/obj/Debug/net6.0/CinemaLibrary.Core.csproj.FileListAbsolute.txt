@@ -1,0 +1,15 @@
+E:\C#\CinemaLibrary.Core\bin\Debug\net6.0\CinemaLibrary.Core.deps.json
+E:\C#\CinemaLibrary.Core\bin\Debug\net6.0\CinemaLibrary.Core.dll
+E:\C#\CinemaLibrary.Core\bin\Debug\net6.0\CinemaLibrary.Core.pdb
+E:\C#\CinemaLibrary.Core\bin\Debug\net6.0\CinemaLibrary.Infrastructure.dll
+E:\C#\CinemaLibrary.Core\bin\Debug\net6.0\CinemaLibrary.Infrastructure.pdb
+E:\C#\CinemaLibrary.Core\obj\Debug\net6.0\CinemaLibrary.Core.csproj.AssemblyReference.cache
+E:\C#\CinemaLibrary.Core\obj\Debug\net6.0\CinemaLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CinemaLibrary.Core\obj\Debug\net6.0\CinemaLibrary.Core.AssemblyInfoInputs.cache
+E:\C#\CinemaLibrary.Core\obj\Debug\net6.0\CinemaLibrary.Core.AssemblyInfo.cs
+E:\C#\CinemaLibrary.Core\obj\Debug\net6.0\CinemaLibrary.Core.csproj.CoreCompileInputs.cache
+E:\C#\CinemaLibrary.Core\obj\Debug\net6.0\CinemaLibrary.Core.csproj.CopyComplete
+E:\C#\CinemaLibrary.Core\obj\Debug\net6.0\CinemaLibrary.Core.dll
+E:\C#\CinemaLibrary.Core\obj\Debug\net6.0\refint\CinemaLibrary.Core.dll
+E:\C#\CinemaLibrary.Core\obj\Debug\net6.0\CinemaLibrary.Core.pdb
+E:\C#\CinemaLibrary.Core\obj\Debug\net6.0\ref\CinemaLibrary.Core.dll
